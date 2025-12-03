@@ -10,7 +10,7 @@
     "cms-sync": "faststore cms-sync",
     "test": "faststore test",
     "prepare": "husky install",
-    "lint": "eslint -c eslint.config.js ./src/**/**/*.{ts,tsx} --fix"
+    "lint": "eslint -c eslint.config.mjs ./src/**/**/*.{ts,tsx} --fix"
   },
   "dependencies": {
     "@faststore/cli": "3.88.5",
