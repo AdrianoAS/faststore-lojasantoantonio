@@ -1,5 +1,5 @@
 import { Shelf } from "./Shelf";
 
-export default{
-  Shelf
-} 
+export default {
+  Shelf,
+};
